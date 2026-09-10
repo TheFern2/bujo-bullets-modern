@@ -1,0 +1,11 @@
+{
+  "id": "bujo-bullets-modern",
+  "name": "BuJo Bullets Modern",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Bullet Journal (BuJo) style task bullets, including a work-in-progress (/) state plus migrated, scheduled, cancelled, events and more. Cycle or set states with commands, hotkeys and a right-click menu.",
+  "author": "fbalandran",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
